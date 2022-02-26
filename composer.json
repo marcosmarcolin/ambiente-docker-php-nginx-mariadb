@@ -1,0 +1,20 @@
+{
+  "name": "marcosmarcolin/ambiente-docker-php-nginx-mariadb",
+  "description": "Ambiente de desenvolvimento com Docker + PHP FPM 8.1.x + Composer + Nginx + MariaDB",
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "type": "project",
+  "authors": [
+    {
+      "name": "Marcos Marcolin",
+      "email": "marcos_marcolin@hotmail.com"
+    }
+  ],
+  "require": {
+  },
+  "config": {
+    "platform": {
+      "php": "8.1"
+    }
+  }
+}
